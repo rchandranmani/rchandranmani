@@ -53,7 +53,7 @@ I'm a passionate developer who loves building scalable and efficient solutions. 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rchandranmani&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rchandranmani" alt="GitHub Streak" />
 </div>
 
 <hr/>
