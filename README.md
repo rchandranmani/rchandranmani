@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+a+Developer;Creating+Awesome+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Ramachandran+Mani;Engineering+Lead+@+HCL;Creating+Awesome+Things" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/chandrum" target="_blank">Ramachandran Mani</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/rchandranmani" target="_blank">Ramachandran Mani (Chandru M)</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p align="center">
-  <a href="https://github.com/chandrum">
-    <img src="https://komarev.com/ghpvc/?username=chandrum&style=flat-square&color=blue" alt="Profile Views" />
+  <a href="https://github.com/rchandranmani">
+    <img src="https://komarev.com/ghpvc/?username=rchandranmani&style=flat-square&color=blue" alt="Profile Views" />
   </a>
 </p>
 
 <p align="center">
-  <em>Software Engineer | Tech Enthusiast | Builder</em>
+  <em>Engineering Lead at HCL Software | Tech Enthusiast | Based in Toronto</em>
 </p>
 
 <hr/>
@@ -20,11 +20,11 @@
 
 I'm a passionate developer who loves building scalable and efficient solutions. I enjoy learning new technologies and sharing my knowledge with the community.
 
-- 🔭 I’m currently working on **Exciting Projects**
+- 🔭 I’m currently working on **Exciting Projects at HCL Software**
 - 🌱 I’m currently learning **Advanced AI Agents**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, Python**
-- 📫 How to reach me: **[YourEmail@example.com](mailto:rchandranmani@outlook.com)**
+- 📫 How to reach me: **[rchandranmani@outlook.com](mailto:rchandranmani@outlook.com)**
 
 <hr/>
 
@@ -46,14 +46,14 @@ I'm a passionate developer who loves building scalable and efficient solutions. 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandrum&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrum&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rchandranmani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchandranmani&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandrum&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rchandranmani&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 
 <hr/>
@@ -61,13 +61,10 @@ I'm a passionate developer who loves building scalable and efficient solutions. 
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/rchandranmani/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://x.com/chandrumani">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
